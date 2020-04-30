@@ -2,7 +2,7 @@
   "name": "visual",
   "dependencies": {
     "d3": "^3.5.5",
-    "jquery": "^3.4.0",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.11",
     "powerbi-visuals-tools": "^2.5.0",
     "powerbi-visuals-utils-colorutils": "^1.2.0",
